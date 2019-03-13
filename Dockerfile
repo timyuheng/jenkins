@@ -1,1 +1,1 @@
-FROM docker.io/library/jenkins
+FROM docker.io/library/jenkins:2.60.3
