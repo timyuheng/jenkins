@@ -1,1 +1,1 @@
-FROM docker.io/library/jenkins
+FROM jenkins/jenkins:lts
