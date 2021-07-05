@@ -1,1 +1,1 @@
-FROM docker.io/library/jenkins
+FROM jenkins:yuheng-2.190.2
