@@ -1,1 +1,1 @@
-FROM jenkins/jenkins:2.375.3-lts-centos7
+FROM jenkins/jenkins:2.375.4-jdk11
